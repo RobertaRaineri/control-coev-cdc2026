@@ -1,5 +1,5 @@
-# control-coev-ecc26
-Simulations for the paper *"On a Closed-loop Controller for the Coevolutionary Model of Actions and Opinions via Broadcasting Information"* by Raineri R., Ye M, and Zino L. - submitted to European Control Conference 2026. 
+# control-coev-cdc2026
+Simulations for the paper *"On a Closed-loop Controller for the Coevolutionary Model of Actions and Opinions via Broadcasting Information"* by Raineri R., Ye M, and Zino L. - submitted to IEEE Conference on Decision and Control 2026. 
 
 ### Paper Abstract ###
 This paper deals with the problem of controlling a complex social network in which agents have actions and opinions that coevolve, mutually influencing one another. We consider a control input consisting in broadcasting information to a target set of agents, with the objective of steering the whole population, initially at a consensus, to a different consensus state. 
